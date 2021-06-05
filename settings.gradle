@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "UTSpraktik-if2-10118074-fikrimaulana"
